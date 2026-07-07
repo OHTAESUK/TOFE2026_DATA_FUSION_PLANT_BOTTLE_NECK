@@ -1,0 +1,6 @@
+One Million cubic meters (1E+6 m^3) of gaseous helium is equivalent to approximately 178,500 kg at Standard Temperature and Pressure (STP).
+
+The exact mass varies depending on the specific temperature and pressure conditions:
+
+ㅁ At STP (0 Celcius, 1 atm): 178,500 kg (The density is about 0.1785 kg/m^3)
+ㅁ At Room Temperature (20 Celcius, 1 atm): 166,400 kg. (The density is about 0.1664 kg/m^3)
